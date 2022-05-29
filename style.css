@@ -1,0 +1,23 @@
+.background {
+    background-color: rgba(245, 191, 171, 0.938);
+}
+.title_geogebra {
+    text-align: center;
+}
+.first_title {
+    color: darkred;
+}
+.himpunan_bilangan {
+    color:rgba(58, 4, 4, 0.925)
+}
+.sapaan_awal {
+    color:rgb(34, 34, 212)
+}
+div {
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 600px;
+    margin-left: 450px;
+    background-color: rgb(248, 250, 154);
+  }
